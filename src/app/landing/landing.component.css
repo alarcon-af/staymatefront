@@ -1,0 +1,3014 @@
+.landing-page_1-625 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #ffffff;
+    width: 1440px;
+    height: 3353px;
+    box-shadow: 0px 3px 6px 0px #120f281e;
+  }
+  .container-762_1-626 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: #ffffff;
+    width: 1440px;
+    height: 92px;
+    box-shadow:
+      0px 4px 9px 0px #ffffff1c,
+      0px 0px 2px 0px #ffffff1e;
+  }
+  .button-426_1-627 {
+    top: 24px;
+    left: 1211px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 8px;
+    background: #82368c;
+    width: 165px;
+    height: 44px;
+  }
+  .text-registrarse_1-628 {
+    top: 9px;
+    left: 42px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 81px;
+    height: 26px;
+  }
+  
+  .button-427_1-629 {
+    top: 24px;
+    left: 1051px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 8px;
+    background: #00000000;
+    width: 140px;
+    height: 44px;
+  }
+  .text-iniciar-sesi-n_1-630 {
+    top: 9px;
+    left: 25px;
+    position: absolute;
+    display: flex;
+    color: #2c91a8;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 91px;
+    height: 26px;
+  }
+  
+  .header-menu-64_1-631 {
+    top: 20px;
+    left: 427px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #00000000;
+    width: 626px;
+    height: 52px;
+  }
+  .frame_1-632 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #00000000;
+    width: 108px;
+    height: 52px;
+  }
+  .text-producto_1-633 {
+    top: 15px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    color: #82368c;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 59px;
+    height: 22px;
+  }
+  
+  .frame_1-638 {
+    top: 0px;
+    left: 244px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #00000000;
+    width: 176px;
+    height: 52px;
+  }
+  .text-caracter-sticas_1-641 {
+    top: 15px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    color: #565e6c;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 95px;
+    height: 22px;
+  }
+  
+  .arrow-drop-down-large_1-639 {
+    top: 14px;
+    left: 128px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-640 {
+    top: 8px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame_1-642 {
+    top: 0px;
+    left: 420px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #00000000;
+    width: 113px;
+    height: 52px;
+  }
+  .text-beneficios_1-643 {
+    top: 15px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    color: #565e6c;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 64px;
+    height: 22px;
+  }
+  
+  .frame_1-634 {
+    top: 0px;
+    left: 108px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #00000000;
+    width: 137px;
+    height: 52px;
+  }
+  .text-recursos_1-637 {
+    top: 15px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    color: #565e6c;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 56px;
+    height: 22px;
+  }
+  
+  .arrow-drop-down-large_1-635 {
+    top: 14px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-636 {
+    top: 8px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame_1-644 {
+    top: 0px;
+    left: 532px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #00000000;
+    width: 94px;
+    height: 52px;
+  }
+  .text-precios_1-645 {
+    top: 15px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    color: #565e6c;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 46px;
+    height: 22px;
+  }
+  
+  .text-staymate_1-646 {
+    top: 35px;
+    left: 142px;
+    position: absolute;
+    display: flex;
+    color: #323842;
+    font-size: 24px;
+    font-family: Baloo 2;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 500;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 99px;
+    height: 36px;
+  }
+  
+  .image-20_1-647 {
+    top: 27px;
+    left: 104px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-763_1-648 {
+    top: 92px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #11a1a226;
+    width: 1440px;
+    height: 62px;
+  }
+  
+  .text-staymate_1-649 {
+    top: 228px;
+    left: 139px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 72px;
+    font-family: Baloo 2;
+    line-height: 94px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 306px;
+    height: 94px;
+  }
+  
+  .text-tecnolog-a-al-servicio-del-hotelero-_1-650 {
+    top: 319px;
+    left: 139px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 48px;
+    font-family: Baloo 2;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: wrap;
+    width: 577px;
+    height: 136px;
+  }
+  
+  .text-libere-la-eficiencia-con-reserveit--su-plataforma-de-gesti-n-todo-en-uno--simplifique-las-tareas-de-recursos-humanos-y-mejore-la-experiencia-de-los-empleados---listo-para-transformar-tu-hotel-_1-651 {
+    top: 487px;
+    left: 139px;
+    position: absolute;
+    display: flex;
+    color: #323842;
+    font-size: 18px;
+    font-family: Outfit;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: wrap;
+    width: 481px;
+    height: 112px;
+  }
+  
+  .button-428_1-652 {
+    top: 667px;
+    left: 139px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #82368c;
+    width: 153px;
+    height: 52px;
+  }
+  .text-comienza-hoy_1-653 {
+    top: 12px;
+    left: 20px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Outfit;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 113px;
+    height: 28px;
+  }
+  
+  .button-429_1-654 {
+    top: 667px;
+    left: 327px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #f3f4f6;
+    width: 178px;
+    height: 52px;
+  }
+  .text-reserva-un-demo_1-655 {
+    top: 12px;
+    left: 20px;
+    position: absolute;
+    display: flex;
+    color: #2c91a8;
+    font-size: 18px;
+    font-family: Outfit;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 137px;
+    height: 28px;
+  }
+  
+  .container-764_1-656 {
+    top: 773px;
+    left: 1px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background: #f8f9fa;
+    width: 1440px;
+    height: 300px;
+  }
+  .text-confianza-basada-en-nuestras-asociaciones-globales-_1-657 {
+    top: 80px;
+    left: 324px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 32px;
+    font-family: Outfit;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 764px;
+    height: 48px;
+  }
+  
+  .frame-316_1-6939 {
+    top: 168px;
+    left: 158px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 147px;
+    height: 52px;
+  }
+  .image-541_1-658 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .group_1-662 {
+    top: 12px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    width: 45px;
+    height: 29px;
+  }
+  .vector_1-664 {
+    display: flex;
+  }
+  
+  .vector_1-666 {
+    display: flex;
+  }
+  
+  .vector_1-668 {
+    display: flex;
+  }
+  
+  .text-apex-fusion_1-669 {
+    top: 13px;
+    left: 214px;
+    position: absolute;
+    display: flex;
+    color: #1d2128;
+    font-size: 16px;
+    font-family: Doppio One;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 91px;
+    height: 26px;
+  }
+  
+  .frame-317_1-6940 {
+    top: 168px;
+    left: 349px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 183px;
+    height: 52px;
+  }
+  .image-542_1-670 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .group_1-674 {
+    top: 2px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    width: 47px;
+    height: 47px;
+  }
+  .vector_1-676 {
+    display: flex;
+  }
+  
+  .vector_1-678 {
+    display: flex;
+  }
+  
+  .vector_1-680 {
+    display: flex;
+  }
+  
+  .vector_1-682 {
+    display: flex;
+  }
+  
+  .vector_1-684 {
+    display: flex;
+  }
+  
+  .vector_1-686 {
+    display: flex;
+  }
+  
+  .vector_1-688 {
+    display: flex;
+  }
+  
+  .vector_1-690 {
+    display: flex;
+  }
+  
+  .text-nebula-dynamics_1-691 {
+    top: 13px;
+    left: 405px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 16px;
+    font-family: Questrial;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 127px;
+    height: 26px;
+  }
+  
+  .frame-318_1-6941 {
+    top: 168px;
+    left: 576px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 120px;
+    height: 52px;
+  }
+  .image-543_1-692 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .group_1-696 {
+    top: 5px;
+    left: 9px;
+    position: absolute;
+    display: flex;
+    width: 34px;
+    height: 42px;
+  }
+  .vector_1-698 {
+    display: flex;
+  }
+  
+  .vector_1-700 {
+    display: flex;
+  }
+  
+  .vector_1-702 {
+    display: flex;
+  }
+  
+  .vector_1-704 {
+    display: flex;
+  }
+  
+  .text-virtuoso_1-705 {
+    top: 13px;
+    left: 632px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 16px;
+    font-family: ABeeZee;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 64px;
+    height: 26px;
+  }
+  
+  .frame-319_1-6942 {
+    top: 168px;
+    left: 740px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 124px;
+    height: 52px;
+  }
+  .image-544_1-706 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .group_1-710 {
+    top: 9px;
+    left: 9px;
+    position: absolute;
+    display: flex;
+    width: 35px;
+    height: 35px;
+  }
+  .vector_1-712 {
+    display: flex;
+  }
+  
+  .vector_1-714 {
+    display: flex;
+  }
+  
+  .text-quantum_1-715 {
+    top: 13px;
+    left: 796px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 68px;
+    height: 26px;
+  }
+  
+  .frame-320_1-6943 {
+    top: 168px;
+    left: 908px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 170px;
+    height: 52px;
+  }
+  .image-545_1-716 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .group_1-720 {
+    top: 7px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    width: 47px;
+    height: 38px;
+  }
+  .clip-path-group_1-725 {
+    width: 47px;
+    height: 38px;
+  }
+  .clippath-3383_1-723 {
+    width: 47px;
+    height: 38px;
+  }
+  .clip0-95-60_1-724 {
+    display: flex;
+  }
+  
+  .vector_1-722 {
+    display: flex;
+  }
+  
+  .clip-path-group_1-730 {
+    width: 47px;
+    height: 38px;
+  }
+  .clippath-3384_1-728 {
+    width: 47px;
+    height: 38px;
+  }
+  .clip0-95-60_1-729 {
+    display: flex;
+  }
+  
+  .vector_1-727 {
+    display: flex;
+  }
+  
+  .clip-path-group_1-735 {
+    width: 47px;
+    height: 38px;
+  }
+  .clippath-3385_1-733 {
+    width: 47px;
+    height: 38px;
+  }
+  .clip0-95-60_1-734 {
+    display: flex;
+  }
+  
+  .vector_1-732 {
+    display: flex;
+  }
+  
+  .clip-path-group_1-740 {
+    width: 47px;
+    height: 38px;
+  }
+  .clippath-3386_1-738 {
+    width: 47px;
+    height: 38px;
+  }
+  .clip0-95-60_1-739 {
+    display: flex;
+  }
+  
+  .vector_1-737 {
+    display: flex;
+  }
+  
+  .text-pinnacle-nexus_1-741 {
+    top: 13px;
+    left: 964px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 16px;
+    font-family: Nunito;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 114px;
+    height: 26px;
+  }
+  
+  .frame-321_1-6944 {
+    top: 168px;
+    left: 1123px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 159px;
+    height: 52px;
+  }
+  .image-546_1-742 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .group_1-746 {
+    top: 7px;
+    left: 4px;
+    position: absolute;
+    display: flex;
+    width: 45px;
+    height: 38px;
+  }
+  .vector_1-748 {
+    display: flex;
+  }
+  
+  .vector_1-750 {
+    display: flex;
+  }
+  
+  .vector_1-752 {
+    display: flex;
+  }
+  
+  .vector_1-754 {
+    display: flex;
+  }
+  
+  .vector_1-756 {
+    display: flex;
+  }
+  
+  .vector_1-758 {
+    display: flex;
+  }
+  
+  .vector_1-760 {
+    display: flex;
+  }
+  
+  .text-elysium-global_1-761 {
+    top: 13px;
+    left: 1179px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 16px;
+    font-family: Abel;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 103px;
+    height: 26px;
+  }
+  
+  .container-765_1-762 {
+    top: 1073px;
+    left: -11px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #ffffffcc;
+    width: 1440px;
+    height: 562px;
+  }
+  .text-caracter-sticas-clave_1-763 {
+    top: 80px;
+    left: 566px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 32px;
+    font-family: Outfit;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 305px;
+    height: 48px;
+  }
+  
+  .container-766_1-764 {
+    top: 160px;
+    left: 119px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: #ffffff;
+    width: 385px;
+    height: 322px;
+  }
+  .text-gesti-n-de-reservas_1-765 {
+    top: 148px;
+    left: 84px;
+    position: absolute;
+    display: flex;
+    color: #82368c;
+    font-size: 24px;
+    font-family: Outfit;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 219px;
+    height: 36px;
+  }
+  
+  .text-este-sistema-facilita-la-gesti-n-de-disponibilidad-de-habitaciones--registro-de-reservas--asignaci-n-de-habitaciones-e-instalaciones-a-hu-spedes-y-control-de-cancelaciones--_1-766 {
+    top: 200px;
+    left: 69px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: center;
+    text-wrap: wrap;
+    width: 248px;
+    height: 110px;
+  }
+  
+  .a-add-3_1-767 {
+    top: 52px;
+    left: 153px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-768 {
+    top: 9px;
+    left: 41px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-769 {
+    top: 65px;
+    left: 23px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-770 {
+    top: 9px;
+    left: 14px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-771 {
+    top: 58px;
+    left: 14px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-772 {
+    top: 17px;
+    left: 23px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-767_1-773 {
+    top: 160px;
+    left: 528px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: #ffffff;
+    width: 385px;
+    height: 322px;
+  }
+  .text-informes-y-an-lisis_1-774 {
+    top: 148px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    color: #2c91a8;
+    font-size: 24px;
+    font-family: Outfit;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 205px;
+    height: 36px;
+  }
+  
+  .text-generaci-n-de-informes-detalladossobre-aspectos-como-la-ocupaci-n-de-habitaciones--las-tendencias-de-reservas--los-ingresos-generados--_1-775 {
+    top: 200px;
+    left: 62px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: center;
+    text-wrap: wrap;
+    width: 262px;
+    height: 88px;
+  }
+  
+  .board-30-3_1-776 {
+    top: 52px;
+    left: 153px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-777 {
+    top: 25px;
+    left: 37px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-778 {
+    top: 37px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-779 {
+    top: 32px;
+    left: 50px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-780 {
+    top: 56px;
+    left: 40px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-781 {
+    top: 56px;
+    left: 22px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-782 {
+    top: 56px;
+    left: 46px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-783 {
+    top: 14px;
+    left: 15px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-784 {
+    top: 56px;
+    left: 9px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-785 {
+    top: 9px;
+    left: 40px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-768_1-786 {
+    top: 160px;
+    left: 936px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: #ffffff;
+    width: 385px;
+    height: 322px;
+  }
+  .text-integraci-n-_1-787 {
+    top: 148px;
+    left: 126px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 24px;
+    font-family: Outfit;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 128px;
+    height: 36px;
+  }
+  
+  .text-la-integraci-n-autom-tica-con-plataformas-de-reserva-optimiza-la-eficiencia-operativa-del-alojamiento-al-reflejar-autom-ticamente-las-reservas-realizadas--reduciendo-errores-y-tiempos-de-actualizaci-n-manual-_1-788 {
+    top: 200px;
+    left: 61px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: center;
+    text-wrap: wrap;
+    width: 262px;
+    height: 132px;
+  }
+  
+  .multiple-11-3_1-789 {
+    top: 52px;
+    left: 152px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-790 {
+    top: 33px;
+    left: 11px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-791 {
+    top: 11px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-792 {
+    top: 11px;
+    left: 11px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-769_1-793 {
+    top: 1587px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #ffffffcc;
+    width: 1440px;
+    height: 698px;
+  }
+  .text-lo-que-dicen-nuestros-clientes_1-794 {
+    top: 66px;
+    left: 515px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 32px;
+    font-family: Outfit;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 426px;
+    height: 48px;
+  }
+  
+  .container-770_1-795 {
+    top: 160px;
+    left: 132px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 24px;
+    background: #dee1e6cc;
+    width: 1176px;
+    height: 458px;
+  }
+  .text-desde-que-utilizamos-reserveit--nuestros-procesos-se-han-vuelto-m-s-eficientes-y-organizados---es-un-cambio-de-juego--_1-796 {
+    top: 100px;
+    left: 509px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 32px;
+    font-family: Outfit;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: wrap;
+    width: 579px;
+    height: 144px;
+  }
+  
+  .text-paula-g-mez---hotel-colombia_1-797 {
+    top: 268px;
+    left: 513px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 20px;
+    font-family: Outfit;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 269px;
+    height: 30px;
+  }
+  
+  .icon-button-48_1-798 {
+    top: 322px;
+    left: 509px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 18px;
+    background: #11a1a2;
+    width: 36px;
+    height: 36px;
+  }
+  .chevron-left-large_1-799 {
+    top: 7px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-800 {
+    top: 3px;
+    left: 6px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .icon-button-49_1-801 {
+    top: 322px;
+    left: 561px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 18px;
+    background: #11a1a2;
+    width: 36px;
+    height: 36px;
+  }
+  .chevron-right-large_1-802 {
+    top: 7px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-803 {
+    top: 3px;
+    left: 6px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .image-547_1-804 {
+    top: -108px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #ffffff;
+    width: 337px;
+    height: 506px;
+  }
+  .group_1-808 {
+    top: -4px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    width: 499px;
+    height: 513px;
+  }
+  .vector_1-810 {
+    display: flex;
+  }
+  
+  .vector_1-812 {
+    display: flex;
+  }
+  
+  .vector_1-814 {
+    display: flex;
+  }
+  
+  .vector_1-816 {
+    display: flex;
+  }
+  
+  .vector_1-818 {
+    display: flex;
+  }
+  
+  .vector_1-820 {
+    display: flex;
+  }
+  
+  .vector_1-822 {
+    display: flex;
+  }
+  
+  .image-548_1-823 {
+    top: 0px;
+    left: 23px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-771_1-824 {
+    top: 2479px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #ffffffcc;
+    width: 1440px;
+    height: 520px;
+  }
+  
+  .image-21_1-825 {
+    top: 207px;
+    left: 845px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-66_1-826 {
+    top: 2205px;
+    left: -5px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #ffffff;
+    width: 1470px;
+    height: 766px;
+  }
+  .text-nuestros-planes_1-827 {
+    top: 62px;
+    left: 559px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 48px;
+    font-family: Baloo 2;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 351px;
+    height: 68px;
+  }
+  
+  .text--elige-el-m-s-adecuado-para-tu-hotel-_1-828 {
+    top: 132px;
+    left: 585px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 18px;
+    font-family: Outfit;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 292px;
+    height: 28px;
+  }
+  
+  .button-group-6_1-829 {
+    top: 185px;
+    left: 617px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 9px;
+    background: #11a1a2;
+    width: 228px;
+    height: 52px;
+  }
+  .frame_1-832 {
+    top: 4px;
+    left: 114px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: #11a1a2;
+    width: 110px;
+    height: 44px;
+  }
+  .text-yearly_1-833 {
+    top: 9px;
+    left: 31px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 45px;
+    height: 26px;
+  }
+  
+  .frame_1-830 {
+    top: 4px;
+    left: 4px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: #ffffff;
+    width: 110px;
+    height: 44px;
+  }
+  .text-monthly_1-831 {
+    top: 9px;
+    left: 26px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 58px;
+    height: 26px;
+  }
+  
+  .container-67_1-834 {
+    top: 291px;
+    left: 206px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 4px 0px 0px 4px;
+    background: #f8f9fa;
+    width: 353px;
+    height: 402px;
+    box-shadow:
+      0px 0px 1px 0px #171a1f11,
+      0px 0px 2px 0px #171a1f1e;
+  }
+  .e-remove-3_1-835 {
+    top: 225px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-836 {
+    top: 6px;
+    left: 6px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-837 {
+    top: 6px;
+    left: 6px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-b-sico_1-838 {
+    top: 24px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 32px;
+    font-family: Baloo 2;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 95px;
+    height: 48px;
+  }
+  
+  .text--mes_1-839 {
+    top: 100px;
+    left: 114px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 31px;
+    height: 22px;
+  }
+  
+  .text--50_1-840 {
+    top: 89px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 40px;
+    font-family: Baloo 2;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 68px;
+    height: 56px;
+  }
+  
+  .e-remove-4_1-841 {
+    top: 257px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-842 {
+    top: 6px;
+    left: 6px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-843 {
+    top: 6px;
+    left: 6px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .c-check-1_1-844 {
+    top: 161px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-845 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-846 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .c-info-1_1-847 {
+    top: 193px;
+    left: 225px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-848 {
+    top: 2px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-849 {
+    top: 9px;
+    left: 10px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-850 {
+    top: 6px;
+    left: 9px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .button-47_1-851 {
+    top: 334px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    border-color: #11a1a2;
+    border-style: solid;
+    border-width: 1px;
+    background: #ffffff;
+    width: 305px;
+    height: 44px;
+  }
+  .text-upgrade_1-852 {
+    top: 9px;
+    left: 121px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 63px;
+    height: 26px;
+  }
+  
+  .text-hasta-5-usuarios_1-853 {
+    top: 161px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 102px;
+    height: 22px;
+  }
+  
+  .text-colaboraci-n-entre--reas_1-854 {
+    top: 193px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 158px;
+    height: 22px;
+  }
+  
+  .text-anal-ticas-mensuales_1-855 {
+    top: 225px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 129px;
+    height: 22px;
+  }
+  
+  .text-estad-sticas_1-856 {
+    top: 257px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 74px;
+    height: 22px;
+  }
+  
+  .c-check-2_1-857 {
+    top: 193px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-858 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-859 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-68_1-860 {
+    top: 291px;
+    left: 912px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 0px 4px 4px 0px;
+    background: #f8f9fa;
+    width: 353px;
+    height: 402px;
+    box-shadow:
+      0px 0px 1px 0px #171a1f11,
+      0px 0px 2px 0px #171a1f1e;
+  }
+  .c-check-3_1-861 {
+    top: 235px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-862 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-863 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-pro_1-864 {
+    top: 24px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    color: #2c91a8;
+    font-size: 32px;
+    font-family: Baloo 2;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 49px;
+    height: 48px;
+  }
+  
+  .text--mes_1-865 {
+    top: 107px;
+    left: 132px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 31px;
+    height: 22px;
+  }
+  
+  .text--150_1-866 {
+    top: 99px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 40px;
+    font-family: Baloo 2;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 84px;
+    height: 56px;
+  }
+  
+  .c-check-4_1-867 {
+    top: 267px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-868 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-869 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .c-check-5_1-870 {
+    top: 171px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-871 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-872 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .c-info-2_1-873 {
+    top: 203px;
+    left: 221px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-874 {
+    top: 2px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-875 {
+    top: 9px;
+    left: 10px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-876 {
+    top: 6px;
+    left: 9px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .button-48_1-877 {
+    top: 334px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    border-color: #2c91a8;
+    border-style: solid;
+    border-width: 1px;
+    background: #ffffff;
+    width: 305px;
+    height: 44px;
+  }
+  .text-contact-sale_1-881 {
+    top: 9px;
+    left: 121px;
+    position: absolute;
+    display: flex;
+    color: #2c91a8;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 89px;
+    height: 26px;
+  }
+  
+  .mail_1-878 {
+    top: 12px;
+    left: 95px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-879 {
+    top: 4px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-880 {
+    top: 4px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-usuarios-ilimitados_1-882 {
+    top: 171px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 117px;
+    height: 22px;
+  }
+  
+  .text-collaboration-features_1-883 {
+    top: 203px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 141px;
+    height: 22px;
+  }
+  
+  .text-anal-ticas-anuales-y-mensuales_1-884 {
+    top: 235px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 190px;
+    height: 22px;
+  }
+  
+  .text-estad-sticas-adicionales-y-asesor-a_1-885 {
+    top: 267px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 212px;
+    height: 22px;
+  }
+  
+  .c-check-6_1-886 {
+    top: 203px;
+    left: 33px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-887 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-888 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .container-69_1-889 {
+    top: 273px;
+    left: 559px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background: #ffffff;
+    width: 353px;
+    height: 438px;
+    box-shadow:
+      0px 4px 9px 0px #171a1f1c,
+      0px 0px 2px 0px #171a1f1e;
+  }
+  .c-check-7_1-890 {
+    top: 258px;
+    left: 35px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-891 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-892 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-intermedio_1-893 {
+    top: 28px;
+    left: 28px;
+    position: absolute;
+    display: flex;
+    color: #82368c;
+    font-size: 40px;
+    font-family: Baloo 2;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 201px;
+    height: 56px;
+  }
+  
+  .text--mes_1-894 {
+    top: 136px;
+    left: 137px;
+    position: absolute;
+    display: flex;
+    color: #9095a0;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 31px;
+    height: 22px;
+  }
+  
+  .text--100_1-895 {
+    top: 122px;
+    left: 35px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 40px;
+    font-family: Baloo 2;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 86px;
+    height: 56px;
+  }
+  
+  .c-check-8_1-896 {
+    top: 290px;
+    left: 35px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-897 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-898 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .c-check-9_1-899 {
+    top: 194px;
+    left: 35px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-900 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-901 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .c-info-3_1-902 {
+    top: 226px;
+    left: 223px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-903 {
+    top: 2px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-904 {
+    top: 9px;
+    left: 10px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-905 {
+    top: 6px;
+    left: 9px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .button-49_1-906 {
+    top: 366px;
+    left: 24px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #82368c;
+    width: 305px;
+    height: 44px;
+  }
+  .text-upgrade_1-907 {
+    top: 9px;
+    left: 121px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 63px;
+    height: 26px;
+  }
+  
+  .tag-36_1-908 {
+    top: 42px;
+    left: 269px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #00000000;
+    width: 58px;
+    height: 28px;
+  }
+  .frame_1-909 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 14px;
+    background: #82368c;
+    width: 58px;
+    height: 28px;
+  }
+  .text-popular_1-910 {
+    top: 4px;
+    left: 8px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: Outfit;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 42px;
+    height: 20px;
+  }
+  
+  .text-entre-5-y-10-usuarios_1-911 {
+    top: 194px;
+    left: 67px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 126px;
+    height: 22px;
+  }
+  
+  .text-collaboration-features_1-912 {
+    top: 226px;
+    left: 67px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 141px;
+    height: 22px;
+  }
+  
+  .text-anal-ticas-mensuales-y-anuales_1-913 {
+    top: 258px;
+    left: 67px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 190px;
+    height: 22px;
+  }
+  
+  .c-check-10_1-914 {
+    top: 226px;
+    left: 35px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-915 {
+    top: 9px;
+    left: 7px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-916 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-estad-sticas_1-917 {
+    top: 290px;
+    left: 67px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 74px;
+    height: 22px;
+  }
+  
+  .container-772_1-918 {
+    top: 2999px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #fafafb;
+    width: 1440px;
+    height: 356px;
+  }
+  .textbox-119_1-919 {
+    top: 270px;
+    left: 1183px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background: #eaecef;
+    width: 127px;
+    height: 35px;
+  }
+  .text-espa-ol_1-920 {
+    top: 7px;
+    left: 12px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 50px;
+    height: 22px;
+  }
+  
+  .chevron-down-large_1-921 {
+    top: 10px;
+    left: 100px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-922 {
+    top: 5px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .frame-323_1-6945 {
+    top: 284px;
+    left: 70px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    width: 313px;
+    height: 22px;
+  }
+  .text-sitemap_1-923 {
+    top: 0px;
+    left: 331px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 52px;
+    height: 22px;
+  }
+  
+  .text--_1-924 {
+    top: 2px;
+    left: 508px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 11px;
+    font-family: Outfit;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 4px;
+    height: 18px;
+  }
+  
+  .text---2024-staymate-_1-925 {
+    top: 0px;
+    left: 247px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 115px;
+    height: 22px;
+  }
+  
+  .text-privacy_1-926 {
+    top: 0px;
+    left: 132px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 47px;
+    height: 22px;
+  }
+  
+  .text-terms_1-927 {
+    top: 0px;
+    left: 81px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 39px;
+    height: 22px;
+  }
+  
+  .text--_1-928 {
+    top: 2px;
+    left: 266px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 11px;
+    font-family: Outfit;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 4px;
+    height: 18px;
+  }
+  
+  .text--_1-929 {
+    top: 2px;
+    left: 185px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 11px;
+    font-family: Outfit;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 4px;
+    height: 18px;
+  }
+  
+  .logo-facebook-13_1-930 {
+    top: 210px;
+    left: 1219px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-931 {
+    top: 2px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .logo-twitter-13_1-932 {
+    top: 210px;
+    left: 1179px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-933 {
+    top: 4px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-productos_1-934 {
+    top: 96px;
+    left: 662px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 20px;
+    font-family: Baloo 2;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 93px;
+    height: 30px;
+  }
+  
+  .text-recursos_1-935 {
+    top: 96px;
+    left: 822px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 20px;
+    font-family: Baloo 2;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 83px;
+    height: 30px;
+  }
+  
+  .text-plataforma_1-936 {
+    top: 96px;
+    left: 982px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 20px;
+    font-family: Baloo 2;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 102px;
+    height: 30px;
+  }
+  
+  .text-socios-e-integraciones_1-937 {
+    top: 142px;
+    left: 982px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 137px;
+    height: 22px;
+  }
+  
+  .text-conviertete-en-socio_1-938 {
+    top: 176px;
+    left: 982px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 126px;
+    height: 22px;
+  }
+  
+  .text-precios_1-939 {
+    top: 176px;
+    left: 662px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 46px;
+    height: 22px;
+  }
+  
+  .text-caracteristicas_1-940 {
+    top: 142px;
+    left: 662px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 95px;
+    height: 22px;
+  }
+  
+  .text-blog_1-941 {
+    top: 142px;
+    left: 822px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 28px;
+    height: 22px;
+  }
+  
+  .text-guia-de-usuario_1-942 {
+    top: 176px;
+    left: 822px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 97px;
+    height: 22px;
+  }
+  
+  .logo-youtube-13_1-943 {
+    top: 210px;
+    left: 1299px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-944 {
+    top: 5px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .logo-linkedin-13_1-945 {
+    top: 210px;
+    left: 1259px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-946 {
+    top: 3px;
+    left: 3px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-compa-ia_1-947 {
+    top: 96px;
+    left: 1179px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 20px;
+    font-family: Baloo 2;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 90px;
+    height: 30px;
+  }
+  
+  .text-sobre-nosotros_1-948 {
+    top: 142px;
+    left: 1179px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 94px;
+    height: 22px;
+  }
+  
+  .text-unete-a-nosotros_1-949 {
+    top: 176px;
+    left: 1179px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 105px;
+    height: 22px;
+  }
+  
+  .text-developer-api_1-950 {
+    top: 210px;
+    left: 982px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 89px;
+    height: 22px;
+  }
+  
+  .image-22_1-951 {
+    top: 98px;
+    left: 56px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  

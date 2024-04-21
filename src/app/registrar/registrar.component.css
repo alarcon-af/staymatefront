@@ -1,0 +1,356 @@
+.registrar_1-952 {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #ffffff;
+    width: 1440px;
+    height: 900px;
+    box-shadow: 0px 3px 6px 0px #120f281e;
+  }
+  .container-13_1-953 {
+    top: 130px;
+    left: 126px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #ffffff;
+    width: 512px;
+    height: 641px;
+  }
+  .textbox-2_1-954 {
+    top: 325px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    background: #00000000;
+    width: 335px;
+    height: 71px;
+  }
+  .textfield_1-956 {
+    top: 27px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background: #f3f4f6;
+    width: 334px;
+    height: 43px;
+  }
+  .text-ingresa-un-correo-de-email_1-957 {
+    top: 9px;
+    left: 44px;
+    position: absolute;
+    display: flex;
+    color: #bcc1ca;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 187px;
+    height: 26px;
+  }
+  
+  .envelope-simple_1-958 {
+    top: 12px;
+    left: 16px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-959 {
+    top: 4px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .text-email_1-955 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: flex;
+    color: #424955;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 42px;
+    height: 26px;
+  }
+  
+  .button-7_1-960 {
+    top: 428px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #82368c;
+    width: 335px;
+    height: 44px;
+  }
+  .text-continuar_1-961 {
+    top: 9px;
+    left: 132px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 71px;
+    height: 26px;
+  }
+  
+  .text-staymate_1-962 {
+    top: -17px;
+    left: 150px;
+    position: absolute;
+    display: flex;
+    color: #0f0a62;
+    font-size: 48px;
+    font-family: Baloo 2;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 204px;
+    height: 68px;
+  }
+  
+  .text-crear-una-cuenta_1-963 {
+    top: 67px;
+    left: 184px;
+    position: absolute;
+    display: flex;
+    color: #565e6c;
+    font-size: 20px;
+    font-family: Baloo 2;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 147px;
+    height: 30px;
+  }
+  
+  .text-iniciar-sesi-n_1-964 {
+    top: 570px;
+    left: 296px;
+    position: absolute;
+    display: flex;
+    color: #11a1a2;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 84px;
+    height: 22px;
+  }
+  
+  .text--ya-tienes-una-cuenta-_1-965 {
+    top: 570px;
+    left: 126px;
+    position: absolute;
+    display: flex;
+    color: #171a1f;
+    font-size: 14px;
+    font-family: Outfit;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: right;
+    text-wrap: nowrap;
+    width: 139px;
+    height: 22px;
+  }
+  
+  .text-o_1-966 {
+    top: 273px;
+    left: 251px;
+    position: absolute;
+    display: flex;
+    color: #6e7787;
+    font-size: 12px;
+    font-family: Outfit;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    text-wrap: nowrap;
+    width: 10px;
+    height: 20px;
+  }
+  
+  .button-8_1-967 {
+    top: 137px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #82368c;
+    width: 335px;
+    height: 44px;
+  }
+  .text-registrarse-con-google_1-970 {
+    top: 9px;
+    left: 97px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 165px;
+    height: 26px;
+  }
+  
+  .google_1-968 {
+    top: 12px;
+    left: 71px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-969 {
+    top: 3px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .button-9_1-971 {
+    top: 197px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 4px;
+    background: #11a1a2;
+    width: 335px;
+    height: 44px;
+  }
+  .text-registrarse-con-microsoft_1-977 {
+    top: 9px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: left;
+    text-wrap: nowrap;
+    width: 181px;
+    height: 26px;
+  }
+  
+  .microsoft_1-972 {
+    top: 12px;
+    left: 63px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+  }
+  .vector_1-973 {
+    top: 2px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-974 {
+    top: 9px;
+    left: 18px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-975 {
+    top: 11px;
+    left: 2px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .vector_1-976 {
+    top: 18px;
+    left: 18px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .line-1_1-978 {
+    top: 283px;
+    left: 89px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .line-2_1-979 {
+    top: 283px;
+    left: 276px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
+  .image-21_1-980 {
+    top: 189px;
+    left: 790px;
+    position: absolute;
+    display: flex;
+    display: flex;
+  }
+  
