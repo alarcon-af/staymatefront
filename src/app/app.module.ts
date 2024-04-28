@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
+import { AuthModule } from '@auth0/auth0-angular';
 import { BrowserModule } from '@angular/platform-browser';
-
+import {HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LogOutComponent } from './log-out/log-out.component';
@@ -16,6 +17,9 @@ import { ModificarReserva2Component } from './modificar-reserva2/modificar-reser
 import { HuespedesComponent } from './huespedes/huespedes.component';
 import { ReportesComponent } from './reportes/reportes.component';
 import { ConfiguracionComponent } from './configuracion/configuracion.component';
+import { FormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
+import { AuthButtonComponent } from './auth-button/auth-button.component';
 
 @NgModule({
   declarations: [
@@ -32,11 +36,21 @@ import { ConfiguracionComponent } from './configuracion/configuracion.component'
     ModificarReserva2Component,
     HuespedesComponent,
     ReportesComponent,
-    ConfiguracionComponent
+    ConfiguracionComponent,
+    AuthButtonComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    FormsModule,
+    HttpClientModule,
+    AppRoutingModule,
+    AuthModule.forRoot({
+      domain: 'dev-ovdb4cbhsnbw2lws.us.auth0.com',
+      clientId: '4tAyB2jJLyRfPt9zCoGPNEcnrhYpeox9',
+      authorizationParams: {
+        redirect_uri: window.location.origin
+      }
+    }),
   ],
   providers: [],
   bootstrap: [AppComponent]

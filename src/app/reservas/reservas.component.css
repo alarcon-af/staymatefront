@@ -3559,8 +3559,8 @@
     height: 46px;
   }
   .frame_1-1259 {
-    top: 0px;
-    left: 0px;
+    top: 290px;
+    left: 65px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3570,7 +3570,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 139px;
+    width: 100px;
     height: 46px;
   }
   .text-referencia_1-1260 {
@@ -3592,8 +3592,8 @@
   }
   
   .frame_1-1267 {
-    top: 0px;
-    left: 713px;
+    top: 290px;
+    left: 665px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3603,7 +3603,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 185px;
+    width: 100px;
     height: 46px;
   }
   .text-check-in_1-1268 {
@@ -3625,8 +3625,8 @@
   }
   
   .frame_1-1269 {
-    top: 0px;
-    left: 898px;
+    top: 290px;
+    left: 815px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3636,7 +3636,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 155px;
+    width: 100px;
     height: 46px;
   }
   .text-check-out_1-1270 {
@@ -3658,8 +3658,8 @@
   }
   
   .frame_1-1261 {
-    top: 0px;
-    left: 139px;
+    top: 290px;
+    left: 215px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3669,7 +3669,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 197px;
+    width: 100px;
     height: 46px;
   }
   .text-huesped_1-1262 {
@@ -3691,8 +3691,8 @@
   }
   
   .frame_1-1273 {
-    top: 0px;
-    left: 1175px;
+    top: 290px;
+    left: 1115px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3702,7 +3702,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 161px;
+    width: 100px;
     height: 46px;
   }
   .text-total_1-1274 {
@@ -3724,8 +3724,8 @@
   }
   
   .frame_1-1271 {
-    top: 0px;
-    left: 1053px;
+    top: 290px;
+    left: 965px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3735,7 +3735,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 122px;
+    width: 100px;
     height: 46px;
   }
   .text-tag_1-1272 {
@@ -3757,8 +3757,8 @@
   }
   
   .frame_1-1265 {
-    top: 0px;
-    left: 561px;
+    top: 290px;
+    left: 515px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3768,7 +3768,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 152px;
+    width: 100px;
     height: 46px;
   }
   .text-nombre_1-1266 {
@@ -3790,8 +3790,8 @@
   }
   
   .frame_1-1263 {
-    top: 0px;
-    left: 336px;
+    top: 290px;
+    left: 365px;
     position: absolute;
     display: flex;
     box-sizing: border-box;
@@ -3801,7 +3801,7 @@
     border-top-width: 1px;
     border-bottom-width: 1px;
     background: #fafafb;
-    width: 225px;
+    width: 100px;
     height: 46px;
   }
   .text-categoria_1-1264 {
@@ -3915,4 +3915,165 @@
     width: 90px;
     height: 22px;
   }
+
+
+  .td-1 {
+    top: 370px;
+    left: 65px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .td-2 {
+    top: 370px;
+    left: 215px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .td-3 {
+    top: 370px;
+    left: 365px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .td-4 {
+    top: 370px;
+    left: 515px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .td-5 {
+    top: 370px;
+    left: 665px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .td-6 {
+    top: 370px;
+    left: 815px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .td-7 {
+    top: 370px;
+    left: 965px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .td-8 {
+    top: 370px;
+    left: 1115px;
+    position: absolute;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #f3f4f6;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    background: #fafafb;
+    width: 100px;
+    height: 46px;
+  }
+
+  .tabla-container {
+    top: 290px;
+    left: 65px;
+    position: absolute;
+  }
+  
+  .latabla {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0 50px; /* Ajusta el espacio vertical entre las filas */
+  }
+  
+  .latabla th, .latabla td {
+    border: 1px solid #f3f4f6;
+    padding: 45px; /* Ajusta el padding para que haya más espacio dentro de las celdas */
+    text-align: left;
+  }
+  
+  .latabla thead th {
+    background-color: #fafafb;
+  }
+  
+  .latabla tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .latabla tbody tr:hover {
+    background-color: #ddd;
+  }
+  
   

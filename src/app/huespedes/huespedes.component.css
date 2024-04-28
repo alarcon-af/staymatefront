@@ -2448,4 +2448,38 @@
     display: flex;
     display: flex;
   }
+
+  
+  .tabla-container {
+    top: 290px;
+    left: 65px;
+    position: absolute;
+  }
+  
+  .latabla {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0 50px; /* Ajusta el espacio vertical entre las filas */
+  }
+  
+  .latabla th, .latabla td {
+    border: 1px solid #f3f4f6;
+    padding: 45px; /* Ajusta el padding para que haya más espacio dentro de las celdas */
+    text-align: left;
+  }
+  
+  .latabla thead th {
+    background-color: #fafafb;
+  }
+  
+  .latabla tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .latabla tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  
   

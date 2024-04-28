@@ -49,15 +49,17 @@
   }
   
   .header-menu-2_1-1477 {
-    top: 2px;
-    left: 203px;
-    position: absolute;
+    position: relative;
     display: flex;
-    box-sizing: border-box;
-    background: #00000000;
-    width: 602px;
+    align-items: center;
     height: 52px;
+    width: 100%;
   }
+  
+  .header-menu-2_1-1477 > li {
+    margin-left: 20px; /* Ajusta el margen izquierdo según sea necesario */
+  }
+
   .frame_1-1478 {
     top: 0px;
     left: 0px;
@@ -261,6 +263,11 @@
     height: 22px;
   }
   
+
+.app-auth-button {
+  /* Estilos específicos para el componente app-auth-button si es necesario */
+}
+
   .frame-31_1-6953 {
     top: 16px;
     left: 1294px;

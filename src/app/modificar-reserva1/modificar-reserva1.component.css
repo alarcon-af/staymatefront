@@ -2416,525 +2416,97 @@
   }
   
   .overlay-1_1-1799 {
-    top: 2px;
-    left: 0px;
-    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     display: flex;
-    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .container-214_1-1800 {
-    top: 306px;
-    left: 300px;
-    position: absolute;
-    display: flex;
     box-sizing: border-box;
     border-radius: 6px;
-    background: #ffffff;
+    background-color: #ffffff;
     width: 865px;
     height: 548px;
-    box-shadow:
-      0px 4px 9px 0px #171a1f1c,
-      0px 0px 2px 0px #171a1f1e;
-  }
-  .e-remove-2_1-1801 {
-    top: 24px;
-    left: 823px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    display: flex;
-  }
-  .vector_1-1802 {
-    top: 5px;
-    left: 5px;
-    position: absolute;
-    display: flex;
-    display: flex;
+    box-shadow: 0px 4px 9px 0px rgba(23, 26, 31, 0.12), 0px 0px 2px 0px rgba(23, 26, 31, 0.14);
+    position: relative;
   }
   
-  .vector_1-1803 {
-    top: 5px;
-    left: 5px;
+  .e-remove-2_1-1801 {
     position: absolute;
-    display: flex;
-    display: flex;
+    top: 24px;
+    right: 24px;
+    cursor: pointer;
   }
   
   .text-modificar-reserva_1-1804 {
-    top: 24px;
-    left: 32px;
     position: absolute;
-    display: flex;
+    top: 24px;
+    left: 602px;
     color: #171a1f;
     font-size: 20px;
-    font-family: Outfit;
-    line-height: 30px;
-    letter-spacing: 0%;
-    text-decoration: none;
+    font-family: 'Outfit', sans-serif;
     font-weight: 700;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 164px;
-    height: 30px;
   }
   
-  .line-56_1-1805 {
-    top: 78px;
-    left: 32px;
-    position: absolute;
-    display: flex;
-    display: flex;
+  /* Estilos para los elementos internos */
+  .textbox-42_1-1830
+  .textarea-1_1-1819,
+  .textarea-1_1-1828,
+  .textarea-1_1-1822,
+  .textarea-1_1-1824 {
+    position: relative;
+    margin-top: 64px;
   }
   
-  .textbox-42_1-1806 {
-    top: 212px;
-    left: 47px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    background: #00000000;
-    width: 393px;
-    height: 59px;
+  .text-ocupantes_1-1830,
+  .text-status_1-1807,
+  .text-categoria_1-1814,
+  .text-unidad_1-1820,
+  .text-check-in_1-1823,
+  .text-check-out_1-1825 {
+    display: inline-block;
+    width: 150px;
+    font-size: 16px;
+    color: #171a1f;
+    top: 50px;
   }
+  
+  .textfield_1-1815,
+  .textfield_1-1821,
   .textfield_1-1808 {
-    top: 23px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    border-radius: 8px;
-    background: #f3f4f6;
-    width: 392px;
-    height: 35px;
-  }
-  .text-pendiente_1-1809 {
-    top: 7px;
-    left: 12px;
-    position: absolute;
-    display: flex;
-    color: #171a1f;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 400;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 63px;
-    height: 22px;
+    display: inline-block;
+    margin-left: 16px;
   }
   
-  .unfold-more_1-1810 {
-    top: 10px;
-    left: 365px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    display: flex;
-  }
-  .vector_1-1811 {
-    top: 2px;
-    left: 5px;
-    position: absolute;
-    display: flex;
-    display: flex;
+  .textfield_1-1815 select,
+  .textfield_1-1821 select,
+  .textfield_1-1808 select,
+  .textfield_1-1831 select {
+    width: 200px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
   }
   
-  .text-status_1-1807 {
-    top: 0px;
-    left: 0px;
+  .button-update {
     position: absolute;
-    display: flex;
-    color: #424955;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 700;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 42px;
-    height: 22px;
-  }
-  
-  .line-57_1-1812 {
-    top: 463px;
+    bottom: 24px;
     left: 32px;
-    position: absolute;
-    display: flex;
-    display: flex;
-  }
-  
-  .textbox-43_1-1813 {
-    top: 286px;
-    left: 47px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    background: #00000000;
-    width: 393px;
-    height: 59px;
-  }
-  .text-categoria_1-1814 {
-    top: 0px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    color: #424955;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 700;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 66px;
-    height: 22px;
-  }
-  
-  .textfield_1-1815 {
-    top: 23px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    border-radius: 8px;
-    background: #f3f4f6;
-    width: 392px;
-    height: 35px;
-  }
-  .text-habitacion_1-1816 {
-    top: 7px;
-    left: 12px;
-    position: absolute;
-    display: flex;
-    color: #171a1f;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 400;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 68px;
-    height: 22px;
-  }
-  
-  .chevron-down-large_1-1817 {
-    top: 10px;
-    left: 365px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    display: flex;
-  }
-  .vector_1-1818 {
-    top: 5px;
-    left: 2px;
-    position: absolute;
-    display: flex;
-    display: flex;
-  }
-  
-  .textarea-1_1-1819 {
-    top: 358px;
-    left: 47px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    background: #00000000;
-    width: 393px;
-    height: 92px;
-  }
-  .text-notes_1-1820 {
-    top: 0px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    color: #424955;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 700;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 38px;
-    height: 22px;
-  }
-  
-  .textfield_1-1821 {
-    top: 23px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    border-radius: 8px;
-    background: #f3f4f6;
-    width: 392px;
-    height: 68px;
-  }
-  .text-notes_1-1822 {
-    top: 7px;
-    left: 12px;
-    position: absolute;
-    display: flex;
-    color: #bcc1ca;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 400;
-    text-align: left;
-    text-wrap: wrap;
-    width: 363px;
-    height: 22px;
-  }
-  
-  .resizing-handle_1-1823 {
-    top: 53px;
-    left: 377px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    display: flex;
-  }
-  .vector_1-1824 {
-    top: 11px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    display: flex;
-  }
-  
-  .vector_1-1825 {
-    top: 11px;
-    left: 5px;
-    position: absolute;
-    display: flex;
-    display: flex;
-  }
-  
-  .button-190_1-1826 {
-    top: 488px;
-    left: 700px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    border-radius: 8px;
-    background: #11a1a2;
-    width: 88px;
-    height: 36px;
-  }
-  .text-actualizar_1-1827 {
-    top: 7px;
-    left: 12px;
-    position: absolute;
-    display: flex;
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #007bff;
     color: #ffffff;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 400;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 63px;
-    height: 22px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
   }
   
-  .text-referencia---cr7261_1-1828 {
-    top: 104px;
-    left: 47px;
-    position: absolute;
-    display: flex;
-    color: #171a1f;
-    font-size: 14px;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 126px;
-    height: 22px;
+  .button-update:hover {
+    background-color: #0056b3;
   }
-  
-  .textbox-42_1-1829 {
-    top: 139px;
-    left: 47px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    background: #00000000;
-    width: 393px;
-    height: 59px;
-  }
-  .text-ocupantes_1-1830 {
-    top: 0px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    color: #424955;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 700;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 70px;
-    height: 22px;
-  }
-  
-  .textfield_1-1831 {
-    top: 23px;
-    left: 0px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    border-radius: 8px;
-    background: #f3f4f6;
-    width: 392px;
-    height: 35px;
-  }
-  .text-2_1-1832 {
-    top: 7px;
-    left: 12px;
-    position: absolute;
-    display: flex;
-    color: #171a1f;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 400;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 8px;
-    height: 22px;
-  }
-  
-  .unfold-more_1-1833 {
-    top: 10px;
-    left: 365px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    display: flex;
-  }
-  .vector_1-1834 {
-    top: 2px;
-    left: 5px;
-    position: absolute;
-    display: flex;
-    display: flex;
-  }
-  
-  .text-fecha-check-in---26-04-2023_1-1835 {
-    top: 158px;
-    left: 507px;
-    position: absolute;
-    display: flex;
-    color: #171a1f;
-    font-size: 14px;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 183px;
-    height: 22px;
-  }
-  
-  .text-fecha-check-out---28-04-2023_1-1836 {
-    top: 212px;
-    left: 507px;
-    position: absolute;
-    display: flex;
-    color: #171a1f;
-    font-size: 14px;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 194px;
-    height: 22px;
-  }
-  
-  .button-190_1-1837 {
-    top: 151px;
-    left: 721px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    border-radius: 8px;
-    background: #11a1a2;
-    width: 85px;
-    height: 36px;
-  }
-  .text-modificar_1-1838 {
-    top: 7px;
-    left: 12px;
-    position: absolute;
-    display: flex;
-    color: #ffffff;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 400;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 60px;
-    height: 22px;
-  }
-  
-  .button-190_1-1839 {
-    top: 206px;
-    left: 721px;
-    position: absolute;
-    display: flex;
-    box-sizing: border-box;
-    overflow: hidden;
-    border-radius: 8px;
-    background: #11a1a2;
-    width: 85px;
-    height: 36px;
-  }
-  .text-modificar_1-1840 {
-    top: 7px;
-    left: 12px;
-    position: absolute;
-    display: flex;
-    color: #ffffff;
-    font-size: 14px;
-    font-family: Outfit;
-    line-height: 22px;
-    letter-spacing: 0%;
-    text-decoration: none;
-    font-weight: 400;
-    text-align: left;
-    text-wrap: nowrap;
-    width: 60px;
-    height: 22px;
-  }
-  

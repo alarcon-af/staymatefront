@@ -51,7 +51,7 @@
     height: 26px;
   }
   
-  .button-427_1-629 {
+  .button-container {
     top: 24px;
     left: 1051px;
     position: absolute;
@@ -63,10 +63,8 @@
     width: 140px;
     height: 44px;
   }
-  .text-iniciar-sesi-n_1-630 {
-    top: 9px;
-    left: 25px;
-    position: absolute;
+  
+  .button-container app-auth-button {
     display: flex;
     color: #2c91a8;
     font-size: 16px;
@@ -79,7 +77,11 @@
     text-wrap: nowrap;
     width: 91px;
     height: 26px;
+    /* Ajusta el posicionamiento interno si es necesario */
+    padding-left: 25px;
+    padding-top: 9px;
   }
+  
   
   .header-menu-64_1-631 {
     top: 20px;
