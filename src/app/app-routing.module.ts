@@ -25,7 +25,7 @@ const routes: Routes = [
   { path: 'log-out', component: LogOutComponent, canActivate: [AuthGuard] },
   { path: 'mod-reserva/:id', component: ModificarReserva1Component, canActivate: [AuthGuard] },
   { path: 'mod-reserva2', component: ModificarReserva2Component, canActivate: [AuthGuard] },
-  { path: 'registrar', component: RegistrarComponent, canActivate: [AuthGuard] },
+  { path: 'registrar', component: RegistrarComponent },
   { path: 'reportes', component: ReportesComponent, canActivate: [AuthGuard] },
   { path: 'reservas', component: ReservasComponent, canActivate: [AuthGuard] },
   { path: 'reservas1', component: Reservas1Component, canActivate: [AuthGuard] },
