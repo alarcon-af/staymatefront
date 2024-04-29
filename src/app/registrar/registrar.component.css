@@ -354,3 +354,20 @@
     display: flex;
   }
   
+input {
+  top: 9px;
+  left: 44px;
+  position: absolute;
+  display: flex;
+  color: #bcc1ca;
+  font-size: 16px;
+  font-family: Outfit;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-decoration: none;
+  font-weight: 400;
+  text-align: left;
+  text-wrap: nowrap;
+  width: 187px;
+  height: 26px;
+}
